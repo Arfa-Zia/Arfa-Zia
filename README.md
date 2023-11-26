@@ -9,7 +9,7 @@ web development.
 
 ## 💼 Skills
 - Front-End Development: HTML, CSS, JavaScript.
-- Tools: Git, Git Hub, Microsoft Word, Canva.
+- Tools: Git, Git Hub,Figma, NPM , Webpack , Microsoft Word, Canva.
 
 ## 📫 How to reach me
 You can reach me at arfazia2006@gmail.com or connect with me at www.linkedin.com/in/arfazia2006.
