@@ -12,5 +12,5 @@ web development.
 - Tools: Git, Git Hub, Figma, React, Tailwind CSS. 
 
 ## 📫 How to reach me
-You can reach me at arfazia2006@gmail.com or connect with me at www.linkedin.com/in/arfazia2006.
+You can reach me at arfazia01@gmail.com or connect with me at www.linkedin.com/in/arfazia01.
 Thanks for stopping by!
